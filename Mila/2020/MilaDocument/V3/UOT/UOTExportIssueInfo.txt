@@ -1,0 +1,3 @@
+Export issue - UOT
+
+I am having difficulty exporting this document into UOT format. LibreOffice keeps throwing the error "General Input/Output error" example image included.
